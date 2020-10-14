@@ -29,4 +29,5 @@ ${url}=       http://omayo.blogspot.com/
      
 TC_003
     Log To Console    github_pratique
-         
+TC_004
+    Select From List By Label    id=multiselect1     Volvo       
